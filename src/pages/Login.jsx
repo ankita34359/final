@@ -44,7 +44,7 @@ function Login() {
           <div className="login-card glass-card">
             <div className="login-header">
               <div className="login-icon">⚔️</div>
-              <h1 className="login-title">Welcome to Solo Leveling Academy</h1>
+              <h1 className="login-title">Welcome to ConPro</h1>
               <p className="login-subtitle">Enter your name to begin your journey from E-Rank to S-Rank learner</p>
             </div>
 
